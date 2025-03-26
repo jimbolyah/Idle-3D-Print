@@ -1,5 +1,4 @@
 # Idle-3D-Print Farm
-# Idle 3D Print
 
 ## Core Concept and Vision
 
